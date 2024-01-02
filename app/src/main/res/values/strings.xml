@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDo List Test</string>
+
+    <string name="title_main">ToDo-List Activity</string>
+    <string name="description_main">Elevate your productivity with \'ToDo-List Activity.\' Uncover effective strategies and practical tips to master the art of task management, turning your to-do list into a blueprint for success.</string>
+    <string name="title_location">Your location: %1$s</string>
+    <string name="success_add_activity">Success add new activity</string>
+
+    <string name="hint_add_title">Add your activity</string>
+    <string name="hint_add_description">Add your description</string>
+    <string name="hint_search">Search your activity</string>
+
+    <string name="btn_add">Add Activity</string>
+    <string name="btn_move_detail">To-Do List Page</string>
+
+    <string name="error_validate_empty">This field is required</string>
+</resources>
